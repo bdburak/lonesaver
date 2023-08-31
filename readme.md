@@ -21,14 +21,19 @@ It is currently in Turkish, but you can change it using the code.
 
 ## What You Will Need
 - ESP8266-ESP01 WIFI module
+
 ![](images/esp.png)
 - MT3608 adjustable DC/DC boost converter module
+
 ![](images/mt3608.png)
 - Upright CR2032 battery holder
+
 ![](images/cr2032Holder.png)
 - Sliding ON/OFF switch
+
 ![](images/switch.png)
 - 3 mm led diode
+
 ![](images/led.png)
 - A 3D printer to print the parts. If you don't have access to one, you can find a friend or online services to print it for you.
 
